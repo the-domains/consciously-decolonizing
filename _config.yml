@@ -17,6 +17,8 @@ opengraph:
   type: Consciously Decolonizing
   appId: 'https://www.facebook.com/ConsciouslyDecolonizing/'
 layout_spectrum: 0.7362646011393236
+analytics:
+  google: 'pub-4046632195104942  '
 author:
   name: Consciously Decolonizing
   email: consciouslydecolonizing@gmail.com
