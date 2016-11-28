@@ -1,0 +1,28 @@
+typography_spectrum: 0.33124362435894283
+color:
+  brandColors:
+    - '#D8CAA8'
+    - '#5C832F'
+    - '#284907'
+    - '#382513'
+    - '#363942'
+  brandStrength: 0.47861354249398036
+  lightness: 0.8947000330205073
+  saturation: 0.6328310864573609
+  rhythmicContrast: 0.4599066084327149
+github: true
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2b4cde2-7dd6-4133-a896-50514b06a067.jpg
+  type: Consciously Decolonizing
+  appId: 'https://www.facebook.com/ConsciouslyDecolonizing/'
+layout_spectrum: 0.7362646011393236
+author:
+  name: Consciously Decolonizing
+  email: consciouslydecolonizing@gmail.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/72f6e575-f24a-4e1a-8694-23c9b3d8ec7e.png
+name: Consciously Decolonizing
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f59fba13-fd39-41e0-a8b0-c06546c68b22.png
+content: []
